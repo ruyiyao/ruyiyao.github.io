@@ -2,7 +2,7 @@
 title: "KickTree: A Recursive Algorithmic Scheme for Packet Classification with Bounded Worst-Case Performance"
 collection: publications
 permalink: /publication/KickTree
-excerpt: 'Yao Xin, Yuxi Liu, Wenjun Li, **Ruyi Yao**, Yang Xu, Yi Wang.'
+excerpt: 'Yao Xin, Yuxi Liu, Wenjun Li, **Ruyi Yao**, Yang Xu, Yi Wang'
 date: 2021-09-11
 venue: 'ANCS'
 ---
