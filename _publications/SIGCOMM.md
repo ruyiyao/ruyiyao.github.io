@@ -2,7 +2,7 @@
 title: "BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree"
 collection: publications
 permalink: /publication/SIGCOMM
-excerpt: '**Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao.'
+excerpt: '**Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao'
 date: 2023-09-11
 venue: 'SIGCOMM'
 ---
