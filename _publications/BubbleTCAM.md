@@ -2,7 +2,7 @@
 title: "BubbleTCAM: Bubble Reservation in SDN Switches for Fast TCAM Update"
 collection: publications
 permalink: /publication/BubbleTCAM
-excerpt: ' Cong Luo, Chuhao Chen, Hao Mei, Ruyi Yao, Ying Wan, Wenjun Li, Sen Liu, Bin Liu, Yang Xu'
+excerpt: ' Cong Luo, Chuhao Chen, Hao Mei, **Ruyi Yao**, Ying Wan, Wenjun Li, Sen Liu, Bin Liu, Yang Xu'
 date: 2022-11-03
 venue: 'IWQoS'
 ---
