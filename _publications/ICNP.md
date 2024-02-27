@@ -2,7 +2,7 @@
 title: "MagicTCAM: A Multiple-TCAM Scheme for Fast TCAM Update"
 collection: publications
 permalink: /publication/ICNP
-excerpt: 'Ruyi Yao, Cong Luo, Xuandong Liu, Ying Wan, Bin Liu, Wenjun Li, Yang Xu'
+excerpt: '**Ruyi Yao**, Cong Luo, Xuandong Liu, Ying Wan, Bin Liu, Wenjun Li, Yang Xu'
 date: 2021-11-03
 venue: 'ICNP'
 ---
