@@ -2,7 +2,7 @@
 title: "Packet-size aware scheduling algorithms in guard band for time sensitive networking"
 collection: publications
 permalink: /publication/PAS
-excerpt: 'Chuwen Zhang, Yi Wang, **Ruyi Yao**, Boyang Zhou, Liang Cheng, Yang Xu, Xiaoguang Li, Jian Cheng, Bin Liu.'
+excerpt: 'Chuwen Zhang, Yi Wang, **Ruyi Yao**, Boyang Zhou, Liang Cheng, Yang Xu, Xiaoguang Li, Jian Cheng, Bin Liu'
 date: 2020-09-11
 venue: 'CCF Transactions on Networking'
 ---
