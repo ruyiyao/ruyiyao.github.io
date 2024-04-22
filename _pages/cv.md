@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Nanjing University of Posts and Telecommunications, 2020
-* Ph.D in Version Control Theory, GitHub University, 2025 (expected)
+* Ph.D student in Fudan University, 2025 (expected)
 
 
 Publications
