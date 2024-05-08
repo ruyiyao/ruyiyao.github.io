@@ -2,7 +2,7 @@
 title: "TCAMVisor: High-throughput TCAM Virtualization for Multi-tenant Software Defined Networking"
 collection: publications
 permalink: /publication/TCAMVisor
-excerpt: 'Ruoshi Sun, Hao Mei, Ruyi Yao, Hao Wang, Yiren Zhou, Zixuan Chen, Sen Liu, and Yang Xu'
+excerpt: 'Ruoshi Sun, Hao Mei, **Ruyi Yao**, Hao Wang, Yiren Zhou, Zixuan Chen, Sen Liu, and Yang Xu'
 date: 2024-06-19
 venue: 'IWQoS'
 ---
