@@ -3,7 +3,7 @@ title: "vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Schedu
 collection: publications
 permalink: /publication/vPIFO
 excerpt: 'Zhiyu Zhang, Shili Chen, **Ruyi Yao**, Ruoshi Sun, Hao Mei, Hao Wang, Zixuan Chen, Gaojian Fang, Yibo Fan, Wanxin Shi, Sen Liu, and Yang Xu'
-date: 2024
+date: 2024-08-04
 venue: 'SIGCOMM'
 ---
 
