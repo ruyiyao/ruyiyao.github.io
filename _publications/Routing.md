@@ -2,7 +2,7 @@
 title: "Routing Optimization Meets Machine Intelligence: A Perspective for the Future Network"
 collection: publications
 permalink: /publication/Routing
-excerpt: 'Bin Dai, Yuanyuan Cao, Zhongli Wu, Zhewei Dai, Ruyi Yao, Yang Xu'
+excerpt: 'Bin Dai, Yuanyuan Cao, Zhongli Wu, Zhewei Dai, **Ruyi Yao**, Yang Xu'
 date: 2021-06-19
 venue: 'Neurocomputing'
 ---
