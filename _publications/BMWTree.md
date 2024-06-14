@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/BMWTree
 excerpt: '**Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao'
 date: 2023-09-11
-venue: 'SIGCOMM'
+venue: '**SIGCOMM**'
 ---
 
 Push-In-First-Out (PIFO) queue has been extensively studied as a programmable scheduler. To achieve accurate, large-scale, and high-throughput PIFO implementation, we propose the Balanced Multi-way (BMW) Sorting Tree for real-time packet sorting. The tree is highly modularized, insertion-balanced and pipeline-friendly with autonomous nodes.
