@@ -15,11 +15,7 @@ Education
 * Ph.D student in Fudan University, 2025 (expected)
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
   
