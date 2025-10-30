@@ -7,13 +7,13 @@ excerpt:
 date: 2023-09-11
 venue: 'SIGCOMM'
 ---
-**Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao. \[[paper](https://ruyiyao.github.io/files/BMWTree.pdf)\]\[[repo](https://github.com/BMWTree/BMWTree)\]
+**Authors**: **Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao. \[[paper](https://ruyiyao.github.io/files/BMWTree.pdf)\]\[[repo](https://github.com/BMWTree/BMWTree)\]
 
-**Honor**: 
+**Honors**: 
 * Outstanding Winner for Achievements in Shanghai Open-Source Innovation, Shanghai Opensource Information Technology Association，2024.
 * The First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition.
 
-**Field**: Programmable Packet Scheduling. 
+**Fields**: Programmable Packet Scheduling. 
 
 Push-In-First-Out (PIFO) queue has been extensively studied as a programmable scheduler. To achieve accurate, large-scale, and high-throughput PIFO implementation, we propose the Balanced Multi-way (BMW) Sorting Tree for real-time packet sorting. The tree is highly modularized, insertion-balanced and pipeline-friendly with autonomous nodes.
 Based on it, we design two simple and efficient hardware designs. The first one is a register-based (R-BMW) scheme. With a pipeline, it features an impressively high and stable throughput without any frequency reduction theoretically even under more levels. We then propose Ranking Processing Units to drive the BMW-Tree (RPU-BMW) to improve the scalability, where nodes are stored in SRAMs and dynamically loaded into/off from RPUs. As the capacity of BMW-Tree grows exponentially, only a few RPUs are needed for a large scale.
