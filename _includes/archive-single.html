@@ -56,8 +56,15 @@
       {% if post.fields %}
         <b>Fields:</b> {{ post.fields }} <br>
       {% endif %}
-      {% if post.honors %}
-        <span style="color: #8B0000;"><b>Honors:</b> {{ post.honors }}</span>
+       {% if post.honors %}
+        <div>
+          <b>Honors:</b>
+          <ul style="margin-top: 5px; margin-bottom: 10px; padding-left: 20px;">
+            {% for honor in post.honors %}
+              <li>{{ honor }}</li>
+            {% endfor %}
+          </ul>
+        </div>
       {% endif %}
     </p>
     
