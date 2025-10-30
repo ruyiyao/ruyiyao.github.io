@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-{% assign pubs = site.publications | sort: "date" | reverse | sort: "priority" %}
+{% assign pubs = site.publications | sort: "priority" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html %}
 {% endfor %}
