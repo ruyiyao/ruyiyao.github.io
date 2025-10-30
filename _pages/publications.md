@@ -17,9 +17,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% comment %}
-Original sort rule (by date reversed)
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcomment %}
