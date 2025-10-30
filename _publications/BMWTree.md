@@ -6,7 +6,9 @@ permalink: /publication/BMWTree
 excerpt: 
 date: 2023-09-11
 venue: 'SIGCOMM'
-honors: "Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024) && First Prize in Fudan University “Internet+” Competition (2023)"
+honors: 
+  - "Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)"
+  - "First Prize in Fudan University “Internet+” Competition (2023)"
 fields: "Programmable Packet Scheduling"
 ---
 **Authors**: **Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao. \[[paper](https://ruyiyao.github.io/files/BMWTree.pdf)\]\[[repo](https://github.com/BMWTree/BMWTree)\]
