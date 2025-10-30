@@ -1,9 +1,11 @@
 ---
+priority: 3
 title: "MagicTCAM: A Multiple-TCAM Scheme for Fast TCAM Update"
 collection: publications
 permalink: /publication/MagicTCAM
 excerpt: '**Ruyi Yao**, Cong Luo, Xuandong Liu, Ying Wan, Bin Liu, Wenjun Li, Yang Xu'
 date: 2021-11-03
+fields: "Software Defined Networking - Flow Table Update"
 venue: 'ICNP'
 ---
 Ternary Content-Addressable Memory (TCAM) is a popular solution for high-speed flow table lookup in Software-Defined Networking (SDN). 
