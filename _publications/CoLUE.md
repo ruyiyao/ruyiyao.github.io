@@ -1,9 +1,11 @@
 ---
+priority: 2
 title: "CoLUE: Collaborative TCAM Update in SDN Switches"
 collection: publications
 permalink: /publication/CoLUE
 excerpt: '**Ruyi Yao**, Cong Luo, Hao Mei, Chuhao Chen, Wenjun Li, Ying Wan, Sen Liu, Bin Liu, Yang Xu'
 date: 2023-05-16
+fields: "Software Defined Networking - Flow Table Update"
 venue: 'INFOCOM'
 ---
 
