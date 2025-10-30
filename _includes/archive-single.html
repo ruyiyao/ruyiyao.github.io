@@ -52,17 +52,15 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.fields %}
-  <p><strong>Fields:</strong> {{ post.fields }}</p>
-{% endif %}
-
-{% if post.honors %}
-  <ul>
-    {% for h in post.honors %}
-      <li><em>{{ h }}</em></li>
-    {% endfor %}
-  </ul>
-{% endif %}
+    <p>
+      {% if post.fields %}
+        <b>Fields:</b> {{ post.fields }} <br>
+      {% endif %}
+      {% if post.honors %}
+        <span style="color: #8B0000;"><b>Honors:</b> {{ post.honors }}</span>
+      {% endif %}
+    </p>
+    
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
