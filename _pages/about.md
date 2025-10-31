@@ -19,9 +19,9 @@ I have contributed to the research community through program committee and revie
 
 Research Interests
 ======
-- **Programmable Data Plane**
-- **Software Defined Networking**
-- **Network Performance Optimization**
+- Programmable Data Plane
+- Software Defined Networking
+- Network Performance Optimization
 
 My work spans flow-table storage and update optimization, packet classification, programmable packet scheduling architectures, and mechanisms for congestion control, load balancing, and routing.
 
