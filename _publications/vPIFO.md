@@ -5,7 +5,10 @@ permalink: /publication/vPIFO
 excerpt: 'Zhiyu Zhang, Shili Chen, **Ruyi Yao**, Ruoshi Sun, Hao Mei, Hao Wang, Zixuan Chen, Gaojian Fang, Yibo Fan, Wanxin Shi, Sen Liu, and Yang Xu'
 date: 2024-08-04
 venue: 'SIGCOMM'
+fields: "Programmable Data Plane - Programmable Packet Scheduling"
 ---
+
+**Fields**: Programmable Data Plane - Programmable Packet Scheduling. 
 
 Programmable packet scheduling enables the integration of scheduling algorithms into switches without the need for hardware redesign. The Push-In First-Out (PIFO) queue facilitates a programmable packet scheduler, supporting a single scheduling algorithm flexibly. However, hierarchical scheduling required in Multi-Tenant Data Centers (MTDCs) remains non-programmable. Dynamic and diverse hierarchical scheduling algorithms necessitate alterations in both the number of PIFO queues and their connection topology, posing a significant challenge to support them on fixed hardware.
 
