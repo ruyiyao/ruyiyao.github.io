@@ -30,21 +30,21 @@ My work spans flow-table storage and update optimization, packet classification,
 What's New?
 ======
 
-**[JUL 2025]** CClinguist is accepted by ***<span style="color:red">SIGCOMM 2025</span>***!
+**[JUL 2025]** CClinguist is accepted by ***<span style="color:red">SIGCOMM 2025!</span>***
 
 **[APR 2025]** HF2T are accepted by IWQoS 2025!
 
-**[FEB 2025]** BMWTree gains **Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)**!
+**[FEB 2025]** BMWTree gains **Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)!**
 
-**[JUN 2024]** TCAMVisor wins **IWQoS Best Paper Honorable Mention**!
+**[JUN 2024]** TCAMVisor wins **IWQoS Best Paper Honorable Mention!**
 
-**[MAY 2024]** vPIFO is accepted by ***<span style="color:red">SIGCOMM 2024</span>***!
+**[MAY 2024]** vPIFO is accepted by ***<span style="color:red">SIGCOMM 2024!</span>***
 
 **[APR 2024]** TCAMVisor is accepted by IWQoS 2024!
 
-**[JUN 2024]** BMWTree wins the  **First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition**!
+**[JUN 2024]** BMWTree wins the  **First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition!**
 
-**[MAY 2023]** BMWTree is accepted by ***<span style="color:red">SIGCOMM 2023</span>***！
+**[MAY 2023]** BMWTree is accepted by ***<span style="color:red">SIGCOMM 2023！</span>***
 
 **[MAR 2023]** Rusen is accepted by IWQoS 2023!
 
