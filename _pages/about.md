@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the School of Computer Science at Fudan University, advised by [Prof. Yang Xu](https://yangxu.info/). My research focuses on networked systems, with an emphasis on software-defined networking, programmable data planes, and network performance optimization. From July 2024 to July 2025, I was a visiting researcher at the National University of Singapore, collaborating with Prof. Chan Mun Choon. I am nearing completion of my Ph.D. studies and am actively seeking job opportunities.
 
-I have contributed to the research community through program committee and reviewing service. I served on the CoNEXT 2025 Shadow Technical Program Committee and the SIGCOMM 2024 Artifact Evaluation Program Committee. I received a SIGCOMM 2024 travel grant and volunteered at SIGCOMM 2024, APNet 2024, and APNet 2025. In addition, I have acted as a reviewer for several conferences and journals, including INFOCOM, ICNP, IWQoS, and JNCA.
+I have contributed to the research community through program committee and reviewing service. I served on the CoNEXT 2025 Shadow Technical Program Committee and the SIGCOMM 2024 Artifact Evaluation Program Committee. I received a SIGCOMM 2024 travel grant and volunteered at SIGCOMM 2024, APNet 2024, and APNet 2025. In addition, I have acted as a reviewer for several conferences and journals, including INFOCOM, ICNP, CoNEXT, IWQoS, and JNCA.
 
 
 Research Interests
