@@ -1,10 +1,10 @@
 ---
-priority: 2
 title: "CoLUE: Collaborative TCAM Update in SDN Switches"
 collection: publications
 permalink: /publication/CoLUE
 excerpt: 
 date: 2023-05-16
+first_author: true
 fields: "Software Defined Networking - Flow Table Update"
 venue: 'INFOCOM'
 ---
