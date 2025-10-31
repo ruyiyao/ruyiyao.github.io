@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Awards & Professional Services"
+title: "Awards & Services"
 permalink: /awards/
 author_profile: true
 ---
 
-## 🏆 Awards and Honors
+# 🏆 Awards and Honors
 
 - Outstanding Winner for Achievements in Shanghai Open-Source Innovation, Shanghai Opensource Information Technology Association，2024
 - IWQoS Best Paper Honorable Mention，IEEE/ACM IWQoS，2024
@@ -17,17 +17,23 @@ author_profile: true
 
 ---
 
-## 💼 Professional Services
+# 💼 Services
 
-### Program Committee & Reviewing
-- Shadow Technical Program Committee, ACM CoNEXT 2025
-- Program Committee, SIGCOMM 2024 
+## Program Committee & Reviewing
+- Shadow Technical Program Committee Member, ACM CoNEXT 2025
+- Program Committee Member, ACM SIGCOMM 2024 
 - Reviewer: IEEE/ACM ToN, IEEE INFOCOM, IEEE ICNP, ACM CoNEXT, IEEE/ACM IWQoS, JNCA
 
-### Volunteering
+## Volunteering
 - Volunteer, APNet 2025
-- Volunteer, SIGCOMM 2024
+- Volunteer, ACM SIGCOMM 2024
 - Volunteer, APNet 2024
+
+---
+
+# 👨‍🏫 Teaching
+
+- Teaching Assistant, Computer Networks (Undergraduate Course), Fall 2021 (Sept 2021 – Jan 2022), Fudan University
 
 ---
 
