@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ruyiyao.github.io/sitemap.xml
