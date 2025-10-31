@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+I am a Ph.D. candidate in the School of Computer Science at Fudan University, advised by [Prof. Yang Xu](https://yangxu.info/). My research focuses on networked systems, with an emphasis on software-defined networking, programmable data planes, and network performance optimization. From July 2024 to July 2025, I was a visiting researcher at the National University of Singapore, collaborating with Prof. Chan Mun Choon. I am nearing completion of my Ph.D. studies and am actively seeking job opportunities.
 
-I am a sixth-year PhD student at the School of Computer Science at Fudan University. My research interest includes Software Defined Networking, Programmable Data Plane and Network Performance Optimization. I am very fortunate to be advised by [Prof. Yang Xu](https://yangxu.info/) at Fudan University.  From July 2024 to July 2025, I was a visiting student at the National University of Singapore, working with Prof. Chan Mun Choon. I am approaching graduation and actively seeking job opportunities.
+I have contributed to the research community through program committee and reviewing service. I served on the CoNEXT 2025 Shadow Technical Program Committee and the SIGCOMM 2024 Artifact Evaluation Program Committee. I received a SIGCOMM 2024 travel grant and volunteered at SIGCOMM 2024, APNet 2024, and APNet 2025. In addition, I have acted as a reviewer for several conferences and journals, including INFOCOM, ICNP, IWQoS, and JNCA.
 
-I served as a Shadow TPC member for CoNEXT 2025 and was also a PC member for the SIGCOMM 2024 Artifact Evaluation. I received a SIGCOMM 2024 travel grant and volunteered at SIGCOMM 2024, APNet 2024, and APNet 2025. I have also served as a reviewer for several conferences and journals, including INFOCOM, ICNP, IWQoS, and JNCA.
 
+Research Interests
+======
+- **Programmable Data Plane**
+- **Software Defined Networking**
+- **Network Performance Optimization**
+
+My work spans flow-table storage and update optimization, packet classification, programmable packet scheduling architectures, and mechanisms for congestion control, load balancing, and routing.
 
 
 
