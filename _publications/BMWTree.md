@@ -1,10 +1,10 @@
 ---
-priority: 1
 title: "BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree"
 collection: publications
 permalink: /publication/BMWTree
 excerpt: 
 date: 2023-09-11
+first_author: true
 venue: 'SIGCOMM'
 honors: 
   - "Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)"
