@@ -34,15 +34,15 @@ What's New?
 
 **[APR 2025]** HF2T are accepted by IWQoS 2025!
 
-**[FEB 2025]** ***<span style="color:blue">BMWTree gains Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)</span>***!
+**[FEB 2025]** BMWTree gains ***<span style="color:blue"> Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)</span>***!
 
-**[JUN 2024]** ***<span style="color:blue">TCAMVisor wins IWQoS Best Paper Honorable Mention</span>***!
+**[JUN 2024]** TCAMVisor wins ***<span style="color:blue"> IWQoS Best Paper Honorable Mention</span>***!
 
 **[MAY 2024]** vPIFO is accepted by ***<span style="color:red">SIGCOMM 2024</span>***!
 
 **[APR 2024]** TCAMVisor is accepted by IWQoS 2024!
 
-**[JUN 2024]** ***<span style="color:blue">BMWTree wins the First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition</span>***!
+**[JUN 2024]** BMWTree wins the ***<span style="color:blue"> First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition</span>***!
 
 **[MAY 2023]** BMWTree is accepted by ***<span style="color:red">SIGCOMM 2023</span>***！
 
