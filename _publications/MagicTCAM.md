@@ -1,10 +1,10 @@
 ---
-priority: 3
 title: "MagicTCAM: A Multiple-TCAM Scheme for Fast TCAM Update"
 collection: publications
 permalink: /publication/MagicTCAM
 excerpt: 
 date: 2021-11-03
+first_author: true
 fields: "Software Defined Networking - Flow Table Update"
 venue: 'ICNP'
 ---
