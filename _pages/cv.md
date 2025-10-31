@@ -7,15 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. in Nanjing University of Posts and Telecommunications, 2020
-* Ph.D student in Fudan University, 2025 (expected)
 
 
-
-  
+<embed src="/files/CV-Chinese.pdf" width="100%" height="900px" type="application/pdf">
 
   
