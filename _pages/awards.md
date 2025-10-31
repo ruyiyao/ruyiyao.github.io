@@ -8,8 +8,8 @@ author_profile: true
 # 🏆 Awards and Honors
 
 - Outstanding Winner for Achievements in Shanghai Open-Source Innovation, Shanghai Opensource Information Technology Association，2024
-- IWQoS Best Paper Honorable Mention，IEEE/ACM IWQoS，2024
-- SIGCOMM  Travel Grant, ACM, 2024  
+- Best Paper Honorable Mention, IEEE/ACM IWQoS，2024
+- Travel Grant, ACM SIGCOMM, 2024  
 - National Scholarship, Fudan University, 2023  
 - First Prize in the Fudan University round of the “Internet+” Innovation and Entrepreneurship Competition, Fudan University, 2023
 - National Scholarship, Nanjing University of Posts and Telecommunications, 2018
