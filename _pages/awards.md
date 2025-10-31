@@ -33,7 +33,7 @@ author_profile: true
 ## 👨‍🏫 Teaching
 
 - Teaching Assistant, Computer Networks (Undergraduate Course), Fall 2021 (Sept 2021 – Jan 2022), Fudan University
-- 
+  
 ---
 
 Last updated: {{ site.time | date: "%Y-%m-%d" }}
