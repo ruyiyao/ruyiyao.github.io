@@ -20,7 +20,7 @@ author_profile: true
 
 ### Program Committee & Reviewing
 - Shadow Technical Program Committee Member, ACM CoNEXT 2025
-- Program Committee Member, ACM SIGCOMM 2024 
+- Artifact Evaluation Program Committee Member, ACM SIGCOMM 2024 
 - Reviewer: IEEE/ACM ToN, IEEE INFOCOM, IEEE ICNP, ACM CoNEXT, IEEE/ACM IWQoS, JNCA
 
 ### Volunteering
