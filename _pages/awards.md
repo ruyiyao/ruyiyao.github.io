@@ -22,25 +22,6 @@ author_profile: true
 - Shadow Technical Program Committee Member, ACM CoNEXT 2025
 - Artifact Evaluation Program Committee Member, ACM SIGCOMM 2024 
 - Reviewer: IEEE/ACM ToN, IEEE INFOCOM, IEEE ICNP, ACM CoNEXT, IEEE/ACM IWQoS, Elsevier JNCA
----
-
-## 🏆 Awards and Honors
-
-- Outstanding Winner for Achievements in Shanghai Open-Source Innovation, Shanghai Opensource Information Technology Association，2024
-- Best Paper Honorable Mention, IEEE/ACM IWQoS，2024
-- Travel Grant, ACM SIGCOMM, 2024  
-- National Scholarship, Fudan University, 2023  
-- First Prize in the Fudan University round of the “Internet+” Innovation and Entrepreneurship Competition, Fudan University, 2023
-- National Scholarship, Nanjing University of Posts and Telecommunications, 2018
-  
----
-
-## 💼 Services
-
-### Program Committee & Reviewing
-- Shadow Technical Program Committee Member, ACM CoNEXT 2025
-- Artifact Evaluation Program Committee Member, ACM SIGCOMM 2024 
-- Reviewer: IEEE/ACM ToN, IEEE INFOCOM, IEEE ICNP, ACM CoNEXT, IEEE/ACM IWQoS, Elsevier JNCA
 
 ### Volunteering
 - Volunteer, APNet 2025
