@@ -20,7 +20,7 @@ author_profile: true
   ACM SIGCOMM Conference on Data Communication, 2023  
   **Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao.  
 
-  - **[SIGCOMM'24] vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks**  
+- **[SIGCOMM'24] vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks**  
   ACM SIGCOMM Conference on Data Communication, 2024  
   Zhiyu Zhang, Shili Chen, **Ruyi Yao**, Ruoshi Sun, Hao Mei, Hao Wang, Zixuan Chen, Gaojian Fang, Yibo Fan, Wanxin Shi, Sen Liu, and Yang Xu.
 
