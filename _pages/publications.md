@@ -17,15 +17,15 @@ author_profile: true
 
 
 - **[SIGCOMM'23] BMW Tree: Large-scale, High-throughput and Modular PIFO Implementation using Balanced Multi-Way Sorting Tree**  
-  ACM SIGCOMM Conference on Data Communication, 2023  
+  ACM Special Interest Group on Communications (SIGCOMM), 2023  
   ***Ruyi Yao***, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao.  
 
 - **[SIGCOMM'24] vPIFO: Virtualized Packet Scheduler for Programmable Hierarchical Scheduling in High-Speed Networks**  
-  ACM SIGCOMM Conference on Data Communication, 2024  
+  ACM Special Interest Group on Communications (SIGCOMM), 2024  
   Zhiyu Zhang, Shili Chen, ***Ruyi Yao***, Ruoshi Sun, Hao Mei, Hao Wang, Zixuan Chen, Gaojian Fang, Yibo Fan, Wanxin Shi, Sen Liu, and Yang Xu.
 
 - **[SIGCOMM'25] CClinguist: An Expert-Free Framework for Future-Compatible Congestion Control Algorithm Identification**  
-  ACM SIGCOMM Conference on Data Communication, 2025  
+  ACM Special Interest Group on Communications (SIGCOMM), 2025  
   Jiahui Li, Han Qi, ***Ruyi Yao***, Jialin Wei, Ruoshi Sun, Zixuan Chen, Sen Liu, and Yang Xu.
 
 - **[INFOCOM'23] CoLUE: Collaborative TCAM Update in SDN Switches**  
@@ -62,7 +62,7 @@ author_profile: true
   Yao Xin, Yuxi Liu, Wenjun Li, ***Ruyi Yao***, Yang Xu, and Yi Wang.
 
 - **[Neurocomputing'21] Routing Optimization Meets Machine Intelligence: A Perspective for the Future Network**  
-  Neurocomputing, 2021  
+  Elsevier Neurocomputing, 2021  
   Bin Dai, Yuanyuan Cao, Zhongli Wu, Zhewei Dai, ***Ruyi Yao***, and Yang Xu.
 
 - **[CCF ToN'20] Packet-size aware scheduling algorithms in guard band for time sensitive networking**  
