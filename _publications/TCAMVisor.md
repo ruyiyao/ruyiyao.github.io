@@ -1,15 +1,13 @@
 ---
-title: "TCAMVisor: High-throughput TCAM Virtualization for Multi-tenant Software Defined Networking"
+title: "TCAMVisor: High-throughput TCAM Virtualization for Multi-tenant Software Defined Networking "
 collection: publications
 permalink: /publication/TCAMVisor
 excerpt: 'Ruoshi Sun, Hao Mei, **Ruyi Yao**, Hao Wang, Yiren Zhou, Zixuan Chen, Sen Liu, and Yang Xu'
 date: 2024-06-19
 venue: 'IWQoS'
-honors: "Best Paper Honorable Mention"
 fields: "Software Defined Networking - Flow Table Update"
 ---
 
-**Honors**: Best Paper Honorable Mention, IEEE/ACM IWQoS，2024
 **Fields**: Software Defined Networking - Flow Table Update. 
 
 Software Defined Networking (SDN) provides users with a unified abstraction of physical networks. 
