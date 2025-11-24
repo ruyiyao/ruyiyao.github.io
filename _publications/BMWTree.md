@@ -6,16 +6,10 @@ excerpt:
 date: 2023-09-11
 first_author: true
 venue: 'SIGCOMM'
-honors: 
-  - "Outstanding Winner for Achievements in Shanghai Open-Source Innovation (2024)"
-  - "First Prize in the Fudan University round of the “Internet+” Innovation and Entrepreneurship Competition (2023)"
 fields: "Programmable Data Plane - Programmable Packet Scheduling"
 ---
 **Ruyi Yao**, Zhiyu Zhang, Gaojian Fang, Peixuan Gao, Sen Liu, Yibo Fan, Yang Xu, and H. Jonathan Chao. \[[paper](https://ruyiyao.github.io/files/BMWTree.pdf)\]\[[repo](https://github.com/BMWTree/BMWTree)\]
 
-**Honors**: 
-* Outstanding Winner for Achievements in Shanghai Open-Source Innovation, Shanghai Opensource Information Technology Association，2024.
-* The First Prize in the Fudan University round of the 2023 “Internet+” Innovation and Entrepreneurship Competition.
 
 **Fields**: Programmable Data Plane - Programmable Packet Scheduling. 
 
